@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/gifs/PembeThePinkCat-pembe-the-pink-cat-UpaxNpS4EI7fkBIGag"  />
+  <img height="150" src="https://media.giphy.com/media/UpaxNpS4EI7fkBIGag/giphy.gif"  />
 </div>
 
 ###
