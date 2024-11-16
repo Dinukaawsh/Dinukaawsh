@@ -87,21 +87,14 @@
 
 ###
 
-<style>
-  .fade-in {
-    animation: fadeIn 1s ease-out;
-  }
-
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
-
 <div align="center">
-  <img class="fade-in" src="https://github-readme-stats.vercel.app/api?username=Dinukaawsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img class="fade-in" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinukaawsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinukaawsh&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinukaawsh&theme=dracula&layout=compact&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
+
+<!-- Example of an animated badge (SVG format) -->
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Dinukaawsh&theme=dracula)
+
 
 
 
