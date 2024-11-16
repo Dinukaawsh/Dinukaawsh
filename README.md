@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Dinuka wickramarathna from <br><br>🔭 Undergduate<br>📚 Esoft metro capmus -  bambalapitiya<br>⚡ Programmer</p>
+<p align="left">I'm Dinuka wickramarathna <br><br>🔭 Undergduate<br>📚 Esoft metro capmus -  bambalapitiya<br>⚡ Programmer</p>
 
 ###
 
@@ -76,11 +76,7 @@
   <img src="https://streak-stats.demolab.com?user=Dinukaawsh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Dinukaawsh/count.svg?"  />
-</div>
 
 ###
 
@@ -91,6 +87,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dinukaawsh/Dinukaawsh/output/snake.svg" alt="Snake animation" />
-
-###
