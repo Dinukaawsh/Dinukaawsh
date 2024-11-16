@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Explore%20My%20World&fontSize=45&fontAlign=50&fontColor=auto&animation=fadeIn&desc=Innovate%20%7C%20Create%20%7C%20Inspire&descAlign=50&descAlignY=70" alt="Animated banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=50&fontAlign=50&fontAlignY=50&fontColor=auto&animation=fadeIn&desc=Dinuka's%20GitHub%20Profile&descAlign=50&descAlignY=70" alt="Wave animation" />
 </div>
+
 
 ###
 
