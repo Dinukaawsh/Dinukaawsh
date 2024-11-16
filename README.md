@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Explore%20My%20World&fontSize=45&fontAlign=50&fontColor=auto&animation=fadeIn&desc=Innovate%20%7C%20Create%20%7C%20Inspire&descAlign=50&descAlignY=70" alt="Animated banner" />
+</div>
+
+###
+
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/UpaxNpS4EI7fkBIGag/giphy.gif"  />
 </div>
 
@@ -84,11 +90,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinukaawsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&fontAlign=50&fontAlignY=50&desc=Dinuka's%20GitHub%20Profile&descAlign=50&descAlignY=70" alt="Wave animation" />
-</div>
 
 
 ###
