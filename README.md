@@ -92,8 +92,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinukaawsh&theme=dracula&layout=compact&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-<!-- Example of an animated badge (SVG format) -->
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Dinukaawsh&theme=dracula)
+
 
 
 
