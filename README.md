@@ -63,24 +63,34 @@ Welcome to my GitHub profile! I'm Dinuka Wickramarathna, an aspiring **Programme
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Dinukaawsh&theme=radical&show_icons=true&include_all_commits=true&count_private=true&border_radius=15&hide_border=true" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="border-radius: 15px; margin-bottom: 20px;" 
-  />
-  
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinukaawsh&theme=radical&layout=compact&langs_count=6&hide_border=true&border_radius=15" 
-    alt="Top Languages" 
-    height="180" 
-    style="border-radius: 15px;" 
-  />
+  <table>
+    <tr>
+      <!-- GitHub Stats -->
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=Dinukaawsh&theme=radical&show_icons=true&include_all_commits=true&count_private=true&border_radius=15&hide_border=true" 
+          alt="GitHub Stats" 
+          height="200" 
+          style="border-radius: 15px;" 
+        />
+      </td>
+      <!-- Top Languages -->
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinukaawsh&theme=radical&layout=compact&langs_count=6&hide_border=true&border_radius=15" 
+          alt="Top Languages" 
+          height="200" 
+          style="border-radius: 15px;" 
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
+
 <div align="center">
+  <h3 style="font-family: 'Trebuchet MS', sans-serif; color: #FF4081;">🔥 Recent GitHub Activity</h3>
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Dinukaawsh&theme=radical&hide_border=true&bg_color=0D1117&color=FF4081&line=FF4081&point=FFA500" 
     alt="Contribution Graph" 
@@ -89,9 +99,18 @@ Welcome to my GitHub profile! I'm Dinuka Wickramarathna, an aspiring **Programme
   />
 </div>
 
-
-
 ---
+
+<div align="center">
+  <h3 style="font-family: 'Trebuchet MS', sans-serif; color: #FFA500;">🌟 Starred Repositories</h3>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dinukaawsh&theme=radical&hide_border=true&fire=FF4081&sideLabels=FFA500" 
+    alt="GitHub Streak Stats" 
+    height="200" 
+    style="border-radius: 15px; margin-top: 20px;" 
+  />
+</div>
+
 
 ## 🔗 Connect with Me
 
