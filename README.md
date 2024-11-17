@@ -80,15 +80,15 @@ Welcome to my GitHub profile! I'm Dinuka Wickramarathna, an aspiring **Programme
   />
 </div>
 
-<!-- Activity Graph -->
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=Dinukaawsh&theme=radical&hide_border=true&bg_color=0D1117&color=FF4081&line=FF4081&point=FFA500" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dinukaawsh&theme=radical&hide_border=true&bg_color=0D1117&color=FF4081&line=FF4081&point=FFA500" 
     alt="Contribution Graph" 
     height="250" 
     style="border-radius: 15px; margin-top: 20px;" 
   />
 </div>
+
 
 
 ---
