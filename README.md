@@ -55,6 +55,14 @@ I'm **Dinuka Wickramarathna**, an aspiring **Programmer** with a passion for tec
     height="200" 
     style="border-radius: 15px;" 
   />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinukaawsh&theme=radical&layout=compact&langs_count=6&hide_border=true&border_radius=15" 
+    alt="Top Languages" 
+    height="180" 
+    style="border-radius: 15px;" 
+  />
+</div>
   <!-- Contribution Graph -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Dinukaawsh&theme=radical&hide_border=true&bg_color=0D1117&color=FF4081&line=FF4081&point=FFA500" 
