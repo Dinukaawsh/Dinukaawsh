@@ -63,9 +63,33 @@ Welcome to my GitHub profile! I'm Dinuka Wickramarathna, an aspiring **Programme
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinukaawsh&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinukaawsh&theme=dracula&layout=compact&langs_count=5&hide_border=false" height="150" alt="languages graph" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Dinukaawsh&theme=radical&show_icons=true&include_all_commits=true&count_private=true&border_radius=15&hide_border=true" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="border-radius: 15px; margin-bottom: 20px;" 
+  />
+  
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinukaawsh&theme=radical&layout=compact&langs_count=6&hide_border=true&border_radius=15" 
+    alt="Top Languages" 
+    height="180" 
+    style="border-radius: 15px;" 
+  />
 </div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=Dinukaawsh&theme=radical&hide_border=true&bg_color=0D1117&color=FF4081&line=FF4081&point=FFA500" 
+    alt="Contribution Graph" 
+    height="250" 
+    style="border-radius: 15px; margin-top: 20px;" 
+  />
+</div>
+
 
 ---
 
