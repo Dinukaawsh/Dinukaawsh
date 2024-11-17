@@ -65,15 +65,7 @@ I'm **Dinuka Wickramarathna**, an aspiring **Programmer** with a passion for tec
     style="border-radius: 15px; margin-top: 10px;" 
   />
 </div>
-<div align="center">
-  <!-- Contribution Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dinukaawsh&theme=radical&hide_border=true&bg_color=0D1117&color=FF4081&line=FF4081&point=FFA500" 
-    alt="Contribution Graph" 
-    height="250" 
-    style="border-radius: 15px; margin-top: 20px;" 
-  />
-</div>
+
 
 ---
 
