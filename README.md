@@ -89,9 +89,23 @@ I'm **Dinuka Wickramarathna**, an aspiring **Programmer** with a passion for tec
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dinuka-ashan-88468b214/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+    <!-- LinkedIn Button with Hover Effect -->
+    <img 
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+      height="40" 
+      alt="LinkedIn" 
+      style="border-radius: 30px; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);" 
+    />
   </a>
 </div>
+
+<style>
+  /* Hover Effect */
+  div a:hover img {
+    transform: scale(1.05); /* Slight scale up */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Stronger shadow */
+  }
+</style>
 
 ---
 
