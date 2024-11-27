@@ -59,12 +59,12 @@ I'm **Dinuka Wickramarathna**, an aspiring **Programmer** with a passion for tec
   <!-- Title for Top Languages -->
   <h3>Top Programming Languages</h3>
 
-  <!-- Top Languages Image -->
+  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinukaawsh&theme=github&layout=compact&langs_count=6&hide_border=true&border_radius=15" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinukaawsh&theme=radical&layout=compact&langs_count=6&hide_border=true&border_radius=15" 
     alt="Top Languages" 
     height="180" 
-    style="border-radius: 15px; margin-top: 15px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);" 
+    style="border-radius: 15px; margin-top: 10px;" 
   />
 </div>
 
