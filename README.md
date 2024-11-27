@@ -99,13 +99,7 @@ I'm **Dinuka Wickramarathna**, an aspiring **Programmer** with a passion for tec
   </a>
 </div>
 
-<style>
-  /* Hover Effect */
-  div a:hover img {
-    transform: scale(1.05); /* Slight scale up */
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Stronger shadow */
-  }
-</style>
+
 
 ---
 
