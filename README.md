@@ -32,9 +32,7 @@ I'm **Dinuka Wickramarathna**, an aspiring **Programmer** with a passion for tec
 🎨 Design & Prototyping
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" /> <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" /> </div>
 🛠️ Development Tools
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="Visual Studio Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original-wordmark.svg" height="40" alt="XAMPP" /> </div>
-🚀 Other Technologies
-<div align="center"> <img src="https://cdn.simpleicons.org/xampp/F37623" height="40" alt="XAMPP" /> <img src="https://cdn.simpleicons.org/xml/00599C" height="40" alt="XML" /> </div>
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="Visual Studio Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />  <div align="center"> <img src="https://cdn.simpleicons.org/xampp/F37623" height="40" alt="XAMPP" />  </div>
 
 
 
