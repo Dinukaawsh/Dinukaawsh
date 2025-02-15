@@ -20,8 +20,7 @@ I'm **Dinuka Wickramarathna**, an aspiring **Programmer** with a passion for tec
 
 ---
 
-<div style="text-align: center; font-family: Arial, sans-serif; margin-top: 20px;">
-  <h2>🛠 Programming Languages & Tools</h2>
+ ## 🛠 Programming Languages & Tools
   
   <h3>🖥️ Programming Languages</h3>
   <div style="margin-bottom: 20px;">
@@ -77,7 +76,7 @@ I'm **Dinuka Wickramarathna**, an aspiring **Programmer** with a passion for tec
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain-wordmark.svg" height="40" alt="Postman" />
   </div>
-</div>
+
 ---
 
 ## 📊 GitHub Stats & Activity
