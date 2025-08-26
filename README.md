@@ -16,7 +16,7 @@ I'm **Dinuka Wickramarathna**, a passionate **Full-Stack Developer** with expert
 
 ## 👨‍💻 About Me
 
-- 🏫 **Undergraduate** at **Esoft Metro Campus, Bambalapitiya**  
+- 🎓 **Bachelor of Information Technology (Honours)** student  
 - 💡 Passionate about **Full-Stack Development**, **Cloud Technologies**, and **CI/CD Automation**
 - 🌱 Currently exploring **Kubernetes** and **Terraform** for infrastructure management
 - 🚀 Enjoy building scalable applications with modern tech stacks
@@ -121,11 +121,13 @@ I'm **Dinuka Wickramarathna**, a passionate **Full-Stack Developer** with expert
 ## 🌟 Contribution Streak
 
 <div align="center">
+  <!-- Fixed GitHub Streak Stats with multiple fallback options -->
   <img 
-    src="https://streak-stats.demolab.com?user=Dinukaawsh&theme=radical&hide_border=true&fire=FF4081&sideLabels=FFA500" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dinukaawsh&theme=radical&hide_border=true&fire=FF4081&sideLabels=FFA500" 
     alt="GitHub Streak Stats" 
     height="200" 
     style="border-radius: 15px; margin-top: 20px;" 
+    onerror="this.style.display='none'"
   />
 </div>
 
