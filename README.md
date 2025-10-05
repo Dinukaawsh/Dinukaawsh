@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=60&fontAlign=50&fontAlignY=50&fontColor=auto&animation=fadeIn&desc=Dinuka%20Wickramarathna%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=70" alt="Wave animation" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Dinuka%20Wickramarathna&fontAlign=50&fontAlignY=40&color=0:00C9FF,100:92FE9D&fontColor=fff&fontSize=45&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=70&animation=twinkling" />
-
 
 ---
 
@@ -119,14 +117,7 @@ I'm **Dinuka Wickramarathna**, a passionate **Full-Stack Developer** with expert
   />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinukaawsh&theme=tokyonight&show_icons=true&border_radius=10&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dinukaawsh&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinukaawsh&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 
 ---
@@ -176,10 +167,6 @@ I'm **Dinuka Wickramarathna**, a passionate **Full-Stack Developer** with expert
 
 ## 🏆 Thanks for visiting my profile!
 
-<div align="center">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+awesome!🚀" alt="Typing SVG" />
-</div>
 
 
 <div align="center">
